@@ -35,23 +35,14 @@ I'm 28 years old and from Rio de Janeiro, Brazil. I have 10 years of experience 
 ---
 
 ## 📈 GitHub Stats  
-<table>
-  <tr>
-    <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=gibsoncs&theme=dark&hide_border=false"
-        alt="Github stats"
-      />
-    </td>
-    <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gibsoncs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
-    </td>
-  </tr>
-</table>
+<img
+  align="left"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=gibsoncs&theme=dark&hide_border=false"
+  alt="Github stats"
+/>
+<img
+  align="left"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gibsoncs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+  alt="Github stats"
+/>
 
