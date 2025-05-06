@@ -4,7 +4,7 @@
 
 I'm 28 years old and from Rio de Janeiro, Brazil. I have 10 years of experience in IT and 2 years working as a developer. I'm currently studying Computer Science. Learn more about me below.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gibsoncruz/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gibson-cs/)
 ![Profile Views](https://komarev.com/ghpvc/?username=gibsoncs&color=blue)
 
 ---
@@ -34,7 +34,8 @@ I'm 28 years old and from Rio de Janeiro, Brazil. I have 10 years of experience 
 
 ---
 
-## 📈 GitHub Stats  
+## 📈 GitHub Stats
+
 <img
   align="left"
   src="https://github-readme-streak-stats.herokuapp.com/?user=gibsoncs&theme=dark&hide_border=false"
