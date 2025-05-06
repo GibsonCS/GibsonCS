@@ -40,10 +40,10 @@ I'm 28 years old and from Rio de Janeiro, Brazil. I have 10 years of experience 
 <div align="left">
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=GibsonCS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=gibsoncs&show_icons=true&theme=dark&locale=en&cache_seconds=21600&include_all_commits=true&count_private=true" 
   />
   <img 
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GibsonCS&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=10" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GibsonCS&theme=dark&layout=compact&custom_title=Top%20Languages&langs_count=10" 
   />
 </div>
